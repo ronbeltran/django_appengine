@@ -1,6 +1,6 @@
 ## Run the latest Django version on Google App Engine
 
-** This is the complementary code from my blog [POST_URL][post]**
+**This is the complementary code from my blog [POST_URL][post]**
 
 First is to create our project directory:
 
